@@ -6,3 +6,5 @@ int main(){
     
     return 0;
 }
+inside main array of int size=10e6 and size globally=10e7
+inside main array of bool size=10e7 and size globally=10e8
